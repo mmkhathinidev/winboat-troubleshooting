@@ -3,7 +3,7 @@
 ## System Information
 - **OS**: Ubuntu 24.04 (Noble)
 - **Architecture**: amd64
-- **User**: m*k*at*in*dev
+- **User**: m?????????dev
 
 ## Installation Summary
 
